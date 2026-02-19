@@ -1,6 +1,7 @@
 package features.albums.domain;
 
 public class Album {
+
     private String id;
     private String name;
     private String year;
@@ -35,3 +36,5 @@ public class Album {
         this.year = year;
     }
 }
+
+
